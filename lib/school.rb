@@ -27,11 +27,8 @@ class School
       sorted_hash[grade] = students.sort
     end
   sorted_hash
-
 end
   
-  
-end
 
 
 
