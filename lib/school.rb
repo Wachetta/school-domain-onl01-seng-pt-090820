@@ -11,8 +11,8 @@ class School
    if @roster[grade]
     @roster[grade] << student_name
   else
-   @roster << @roster[grade]
-    end
+   @roster[grade]
+   end
   end
   
   
